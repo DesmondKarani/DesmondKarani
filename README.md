@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DesmondKarani.
-- 👀 I’m interested in web developmnent and blockchain technoloy.
-- 🌱 I’m currently learning HTML, CSS, and Javascript.
+- 👀 I’m interested in software development and blockchain technoloy.
+- 🌱 I’m currently learning C.
 - 💞️ I love the process of creating new things through codes, Autodesk Fusion360, and even WinISD.
 - 📫 How to reach me: Twitter @karani_des and Facebook Desmond Karani.
 
