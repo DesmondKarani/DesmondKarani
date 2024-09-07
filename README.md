@@ -4,13 +4,13 @@
 
 ## 👨🏿‍💻 Technical Skills
 - Solid foundation in C, Python, and JavaScript
-- Currently mastering the MERN (MongoDB, Express.js, React, Node.js) Stack
+- Currently mastering the MERN Stack
 
 ## 🛠️ Projects & Interests
 - I love creating through coding, Autodesk Fusion 360, and WinISD.
 
 ## 🌱 Always Learning
-Always ready to learn new things.
+- Learn as if you were to live forever 💯💯
 
 
 ## 📫 Let's Connect!
