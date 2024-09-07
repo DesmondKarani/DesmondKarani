@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Desmond Karani (@DesmondKarani)
+# 👋 Hello, I'm Desmond Karani
 
 🚀 Passionate software developer focusing on full-stack web development.
 
