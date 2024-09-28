@@ -14,7 +14,7 @@
 
 
 ## 📫 Let's Connect!
-- Twitter: [@karani_des](https://twitter.com/karani_des)
+- X (formerly Twitter): [@karani_des](https://twitter.com/karani_des)
 - Facebook: [Desmond Karani](https://www.facebook.com/desmondkarani)
 - GitHub: [DesmondKarani](https://github.com/DesmondKarani)
 
