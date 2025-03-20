@@ -3,19 +3,19 @@
 <p>I'm Desmond Karani<br>
 Passionate full-stack developer | MERN enthusiast | Problem solver</p>
 
-<table style="border-collapse: collapse; border: none;">
+<table style="border-collapse: collapse; border: none; border-style: none !important;">
   <tr>
-    <td style="padding: 0; border: none;">
+    <td style="padding: 0; border: none; border-style: none !important;">
       <a href="https://x.com/karani_des">
         <img src="https://raw.githubusercontent.com/DesmondKarani/svg/refs/heads/main/FlowbiteXSolid.svg" width="20px" alt="X" style="fill: white;" />
       </a>
     </td>
-    <td style="padding: 0 5px 0 5px; border: none;">
+    <td style="padding: 0 5px 0 5px; border: none; border-style: none !important;">
       <a href="https://www.linkedin.com/in/desmond-karani-a78359b2/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20px" alt="LinkedIn" />
       </a>
     </td>
-    <td style="padding: 0; border: none;">
+    <td style="padding: 0; border: none; border-style: none !important;">
       <a href="https://www.facebook.com/desmondkarani">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="20px" alt="Facebook" />
       </a>
