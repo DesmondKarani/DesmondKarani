@@ -4,7 +4,7 @@
 Passionate full-stack developer | MERN enthusiast | Problem solver</p>
 <p>
   <a href="https://x.com/karani_des">
-    <img src="https://raw.githubusercontent.com/DesmondKarani/svg/refs/heads/main/FlowbiteXSolid.svg" width="17px" alt="X" />
+    <img src="https://raw.githubusercontent.com/DesmondKarani/svg/refs/heads/main/FlowbiteXSolid.svg" width="20px" alt="X" />
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/desmond-karani-a78359b2/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="23px" alt="LinkedIn" />
@@ -41,14 +41,20 @@ Passionate full-stack developer | MERN enthusiast | Problem solver</p>
         <a href="https://github.com/DesmondKarani/weather-app"><b>Weather App</b></a><br>
         MERN stack app featuring real-time weather updates
       </p>
+      <h3>Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DesmondKarani&layout=compact&count_private=true&theme=radical&hide_border=true" alt="Top Languages" />
     </td>
 
   <td valign="top" width="50%">
       <h3>Stats</h3>
       <img src="https://github-readme-stats.vercel.app/api?username=DesmondKarani&show_icons=true&count_private=true&theme=radical&hide_border=true&hide_title=true" alt="GitHub stats" />
       <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DesmondKarani&layout=compact&count_private=true&theme=radical&hide_border=true" alt="Top Languages" />
+      <h3>More Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=DesmondKarani&show_icons=true&count_private=true&theme=radical&hide_border=true&hide_title=true" alt="GitHub stats" />
+      <br>
+    [![GitHub Streak](https://streak-stats.demolab.com?user=DesmondKarani&theme=dark)](https://git.io/streak-stats)
 
+    
   <p><i>"Learn as if you were to live forever."</i> – Mahatma Gandhi</p>
       <p>📃 <a href="https://drive.google.com/file/d/1xO7WSnQBELkhC11CipCuO1egDUclAwfm/view?usp=drive_link">CV <<<</a></p>
     </td>
