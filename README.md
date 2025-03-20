@@ -4,13 +4,13 @@
 Passionate full-stack developer | MERN enthusiast | Problem solver</p>
 <p>
   <a href="https://x.com/karani_des">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="17px" alt="X" />
+    <img src="https://raw.githubusercontent.com/DesmondKarani/svg/refs/heads/main/FlowbiteXSolid.svg" width="17px" alt="X" />
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/desmond-karani-a78359b2/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20px" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="23px" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
   <a href="https://www.facebook.com/desmondkarani">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="20px" alt="Facebook" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="23px" alt="Facebook" />
   </a>
 </p>
 
