@@ -5,7 +5,7 @@ Passionate full-stack developer | MERN enthusiast | Problem solver</p>
 
 <p>
   <a href="https://x.com/karani_des">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="17px" alt="X" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/x.svg" width="20px" alt="X" style="filter: invert(1);" />
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/desmond-karani-a78359b2/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20px" alt="LinkedIn" />
