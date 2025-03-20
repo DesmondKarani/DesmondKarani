@@ -32,8 +32,8 @@ Passionate full-stack developer | MERN enthusiast | Problem solver</p>
         <img src="https://raw.githubusercontent.com/DesmondKarani/svg/refs/heads/main/node-js.svg" width="40" height="40" alt="NodeJS" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40px" alt="TypeScript" />
       </p>
-
-      <h3>Featured Projects</h3>
+      
+  <h3>Featured Projects</h3>
       <p>
         <a href="https://github.com/DesmondKarani/citePY"><b>Citation Generator</b></a><br>
         Python & Docker-powered website for academic citations
@@ -44,13 +44,13 @@ Passionate full-stack developer | MERN enthusiast | Problem solver</p>
       </p>
     </td>
 
-    <td valign="top" width="50%">
+  <td valign="top" width="50%">
       <h3>Stats</h3>
       <img src="https://github-readme-stats.vercel.app/api?username=DesmondKarani&show_icons=true&count_private=true&theme=radical&hide_border=true&hide_title=true" alt="GitHub stats" />
       <br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DesmondKarani&layout=compact&count_private=true&theme=radical&hide_border=true" alt="Top Languages" />
 
-      <p><i>"Learn as if you were to live forever."</i> – Mahatma Gandhi</p>
+  <p><i>"Learn as if you were to live forever."</i> – Mahatma Gandhi</p>
       <p>📃 <a href="https://drive.google.com/file/d/1xO7WSnQBELkhC11CipCuO1egDUclAwfm/view?usp=drive_link">CV <<<</a></p>
     </td>
   </tr>
