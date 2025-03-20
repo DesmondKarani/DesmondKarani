@@ -50,11 +50,12 @@ Passionate full-stack developer | MERN enthusiast | Problem solver</p>
       <br>
       <a href="https://git.io/streak-stats">
         <img src="https://streak-stats.demolab.com?user=DesmondKarani&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </a>
+      </a>
     
   <p><i>"Learn as if you were to live forever."</i> – Mahatma Gandhi</p>
       <p>📃 <a href="https://drive.google.com/file/d/1xO7WSnQBELkhC11CipCuO1egDUclAwfm/view?usp=drive_link">CV <<<</a></p>
     </td>
   </tr>
 </table>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=DesmondKarani&theme=radical&hide_border=true)](https://git.io/streak-stats)
