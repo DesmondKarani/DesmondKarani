@@ -3,13 +3,13 @@
 <p>I'm Desmond Karani<br>
 Passionate full-stack developer | MERN enthusiast | Problem solver</p>
 <p>
-  <a href="https://x.com/karani_des" style="margin-right: 20px;">
+  <a href="https://x.com/karani_des" style="text-decoration: none; margin-right: 10px;">
     <img src="https://raw.githubusercontent.com/DesmondKarani/svg/refs/heads/main/FlowbiteXSolid.svg" width="20px" alt="X" style="fill: white;" />
   </a>
-  <a href="https://www.linkedin.com/in/desmond-karani-a78359b2/" style="margin-right: 20px;">
+  <a href="https://www.linkedin.com/in/desmond-karani-a78359b2/" style="text-decoration: none; margin-right: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20px" alt="LinkedIn" />
   </a>
-  <a href="https://www.facebook.com/desmondkarani">
+  <a href="https://www.facebook.com/desmondkarani" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="20px" alt="Facebook" />
   </a>
 </p>
