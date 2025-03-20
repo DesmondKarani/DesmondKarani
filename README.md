@@ -57,3 +57,4 @@ Passionate full-stack developer | MERN enthusiast | Problem solver</p>
     </td>
   </tr>
 </table>
+<img src="https://streak-stats.demolab.com?user=DesmondKarani&theme=radical&hide_border=true" alt="GitHub Streak" />
