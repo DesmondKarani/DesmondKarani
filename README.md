@@ -32,6 +32,9 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DesmondKarani&layout=compact&count_private=true&theme=radical)
 
+### Contributions Overview
+[![GitHub Streak](https://streak-stats.demolab.com?user=DesmondKarani&theme=dark)](https://git.io/streak-stats)
+
 ---
 
 ## 🌱 Always Learning
