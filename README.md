@@ -41,7 +41,6 @@ Passionate full-stack developer | MERN enthusiast | Problem solver</p>
         <a href="https://github.com/DesmondKarani/weather-app"><b>Weather App</b></a><br>
         MERN stack app featuring real-time weather updates
       </p>
-      <h3>Stats</h3>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DesmondKarani&layout=compact&count_private=true&theme=radical&hide_border=true" alt="Top Languages" />
     </td>
 
