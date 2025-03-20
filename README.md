@@ -46,14 +46,12 @@ Passionate full-stack developer | MERN enthusiast | Problem solver</p>
     </td>
 
   <td valign="top" width="50%">
-      <h3>Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=DesmondKarani&show_icons=true&count_private=true&theme=radical&hide_border=true&hide_title=true" alt="GitHub stats" />
-      <br>
       <h3>More Stats</h3>
       <img src="https://github-readme-stats.vercel.app/api?username=DesmondKarani&show_icons=true&count_private=true&theme=radical&hide_border=true&hide_title=true" alt="GitHub stats" />
       <br>
-    [![GitHub Streak](https://streak-stats.demolab.com?user=DesmondKarani&theme=dark)](https://git.io/streak-stats)
-
+      <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=DesmondKarani&theme=dark" alt="GitHub Streak" />
+  </a>
     
   <p><i>"Learn as if you were to live forever."</i> – Mahatma Gandhi</p>
       <p>📃 <a href="https://drive.google.com/file/d/1xO7WSnQBELkhC11CipCuO1egDUclAwfm/view?usp=drive_link">CV <<<</a></p>
