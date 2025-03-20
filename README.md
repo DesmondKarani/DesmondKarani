@@ -5,7 +5,7 @@ Passionate full-stack developer | MERN enthusiast | Problem solver</p>
 
 <p>
   <a href="https://x.com/karani_des">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/x.svg" width="20px" alt="X" style="fill: white;" />
+  <img src="https://raw.githubusercontent.com/DesmondKarani/svg/refs/heads/main/FlowbiteXSolid.svg" width="20px" alt="X" style="fill: white;" />
 </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/desmond-karani-a78359b2/">
@@ -23,7 +23,7 @@ Passionate full-stack developer | MERN enthusiast | Problem solver</p>
     <td valign="top" width="50%">
       <h3>Skills</h3>
       <p>
-        <img src="https://raw.githubusercontent.com/DesmondKarani/svg/refs/heads/main/IconoirGit.svg" width="40px" alt="Git" />
+        <img src="https://raw.githubusercontent.com/DesmondKarani/svg/refs/heads/main/SkillIconsGit.svg" width="40px" alt="Git" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40px" alt="C" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" alt="Python" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" alt="JavaScript" />
