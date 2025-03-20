@@ -49,7 +49,7 @@ Passionate full-stack developer | MERN enthusiast | Problem solver</p>
       <img src="https://github-readme-stats.vercel.app/api?username=DesmondKarani&show_icons=true&count_private=true&theme=radical&hide_border=true&hide_title=true" alt="GitHub stats" />
       <br>
       <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DesmondKarani&theme=dark&hide_border=true" alt="GitHub Streak" width="100%" />
+        <img src="https://streak-stats.demolab.com?user=DesmondKarani&theme=radical&hide_border=true" alt="GitHub Streak" />
   </a>
     
   <p><i>"Learn as if you were to live forever."</i> – Mahatma Gandhi</p>
