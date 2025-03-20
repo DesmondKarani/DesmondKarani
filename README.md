@@ -1,6 +1,8 @@
 <h1>Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /></h1>
 
-<p>I'm Desmond Karani<br>Passionate full-stack developer | MERN enthusiast | Problem solver<br>
+<p>I'm Desmond Karani<br>
+Passionate full-stack developer | MERN enthusiast | Problem solver</p>
+
 <p>
   <a href="https://x.com/karani_des">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="17px" alt="X" />
@@ -12,6 +14,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="20px" alt="Facebook" />
   </a>
 </p>
+
 <p>Currently working on TypeScript</p>
 
 <table>
@@ -19,17 +22,17 @@
     <td valign="top" width="50%">
       <h3>Skills</h3>
       <p>
-          <img src ="https://raw.githubusercontent.com/DesmondKarani/svg/refs/heads/main/IconoirGit.svg?token=GHSAT0AAAAAAC42XV7W4H5K74BQ7EGPI4COZ64LFYQ"width="40px" alt="git" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40px" alt="C" />
+        <img src="https://raw.githubusercontent.com/DesmondKarani/svg/refs/heads/main/IconoirGit.svg" width="40px" alt="Git" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40px" alt="C" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" alt="Python" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" alt="Vanilla JavaScript" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" alt="JavaScript" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40px" alt="MongoDB" />
-        <img src="https://raw.githubusercontent.com/DesmondKarani/svg/refs/heads/main/SkillIconsExpressjsDark.svg?token=GHSAT0AAAAAAC42XV7XFB5QZZ2SG6WB4JBWZ64KTJA" width="40px" alt="Express" alt="Express"/>
+        <img src="https://raw.githubusercontent.com/DesmondKarani/svg/refs/heads/main/SkillIconsExpressjsDark.svg" width="40px" alt="Express" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" alt="React" />
-        <img src="https://raw.githubusercontent.com/DesmondKarani/svg/refs/heads/main/node-js.svg?token=GHSAT0AAAAAAC42XV7WC7BG6EC73ZDQDKFYZ64KAMQ" width="40" height="40" alt="NodeJS"/>
+        <img src="https://raw.githubusercontent.com/DesmondKarani/svg/refs/heads/main/node-js.svg" width="40" height="40" alt="NodeJS" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40px" alt="TypeScript" />
       </p>
-      
+
       <h3>Featured Projects</h3>
       <p>
         <a href="https://github.com/DesmondKarani/citePY"><b>Citation Generator</b></a><br>
@@ -40,13 +43,13 @@
         MERN stack app featuring real-time weather updates
       </p>
     </td>
-    
+
     <td valign="top" width="50%">
       <h3>Stats</h3>
       <img src="https://github-readme-stats.vercel.app/api?username=DesmondKarani&show_icons=true&count_private=true&theme=radical&hide_border=true&hide_title=true" alt="GitHub stats" />
       <br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DesmondKarani&layout=compact&count_private=true&theme=radical&hide_border=true" alt="Top Languages" />
-      
+
       <p><i>"Learn as if you were to live forever."</i> – Mahatma Gandhi</p>
       <p>📃 <a href="https://drive.google.com/file/d/1xO7WSnQBELkhC11CipCuO1egDUclAwfm/view?usp=drive_link">CV <<<</a></p>
     </td>
