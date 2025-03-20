@@ -4,12 +4,14 @@ I'm Desmond Karani
 🚀 Passionate software developer focusing on full-stack web development.
 
 ---
-
 ## 👨🏿‍💻 Technical Skills
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-![MERN Stack](https://img.shields.io/badge/MERN-Stack-%2361DAFB?style=flat&logo=react&logoColor=white)
+![C](https://img.shields.io/badge/%20-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/%20-%2314354C.svg?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/%20-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/%20-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
+![MongoDB](https://img.shields.io/badge/%20-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/%20-%23000000.svg?style=flat&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/%20-%23339933.svg?style=flat&logo=node.js&logoColor=white)
 
 - Solid foundation in C, Python, and JavaScript
 - Currently mastering the MERN Stack
