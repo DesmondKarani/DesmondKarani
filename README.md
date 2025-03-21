@@ -41,6 +41,10 @@ Passionate full-stack developer | MERN enthusiast | Problem solver</p>
         <a href="https://github.com/DesmondKarani/weather-app" target="_blank" rel="noopener noreferrer"><b>Weather App</b></a><br>
         MERN stack app featuring real-time weather updates
       </p>
+      <p>
+        <a href="https://github.com/DesmondKarani/darkSkinHandWave" target="_blank" rel="noopener noreferrer"><b>Dark Skin Tone Hand Wave</b></a><br>
+        I made this simple dark skin tone handwave. Feel free to use it ☝🏾
+      </p>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DesmondKarani&layout=compact&count_private=true&theme=radical&hide_border=true" alt="Top Languages" />
     </td>
 
