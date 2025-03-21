@@ -1,4 +1,4 @@
-<h1>Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /></h1>
+<h1>Hello <img src="https://raw.githubusercontent.com/DesmondKarani/darkSkinHandWave/refs/heads/main/wave.svg" width="30px" alt="Waving Hand" /></h1>
 
 <p>I'm Desmond Karani<br>
 Passionate full-stack developer | MERN enthusiast | Problem solver</p>
@@ -54,7 +54,7 @@ Passionate full-stack developer | MERN enthusiast | Problem solver</p>
     
   <p><i>"Learn as if you were to live forever."</i> – Mahatma Gandhi</p>
 
-  <p><a href="https://drive.google.com/file/d/1xO7WSnQBELkhC11CipCuO1egDUclAwfm/view?usp=drive_link" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Here is My CV 📃👈🏾</a><<<</p>
+  <p><a href="https://drive.google.com/file/d/1xO7WSnQBELkhC11CipCuO1egDUclAwfm/view?usp=drive_link" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Here is my CV 📃</a><<<</p>
       </td>
   </tr>
 </table>
