@@ -9,7 +9,7 @@ Passionate full-stack developer | MERN enthusiast | Problem solver</p>
   <a href="https://www.linkedin.com/in/desmond-karani-a78359b2/" target="_blank" rel="noopener noreferrer" title="Connect on LinkedIn">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="23px" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.facebook.com/desmondkarani" target="_blank" rel="noopener noreferrer" title="Find me on Facebook">
+  <a href="https://www.facebook.com/KaraniDesmond/" target="_blank" rel="noopener noreferrer" title="Find me on Facebook">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="23px" alt="Facebook" />
   </a>
 </p>
