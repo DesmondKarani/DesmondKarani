@@ -53,6 +53,7 @@ Passionate full-stack developer | MERN enthusiast | Problem solver</p>
       </a>
     
   <p><i>"Learn as if you were to live forever."</i> – Mahatma Gandhi</p>
+  
   📃 [My CV 👈🏾](https://drive.google.com/file/d/1xO7WSnQBELkhC11CipCuO1egDUclAwfm/view?usp=drive_link)
     </td>
   </tr>
