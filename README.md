@@ -33,9 +33,9 @@ Passionate full-stack developer | MERN enthusiast | Problem solver</p>
       </p>
       <h3>Featured Projects</h3>
 <div align="left">
-  <h4>📚 <a href="https://mycitations.org/">MyCitations.org</a> - Academic Citation Generator</h4>
+  <h4>Check my website 👉🏾 <a href="https://mycitations.org/">myCitations.org</a>, An Academic Citation Generator</h4>
   <p>
-    A full-stack MERN application that generates accurate academic citations in multiple formats:
+    This is a full-stack site that generates accurate academic citations in multiple formats:
     <ul>
       <li>APA (6th & 7th editions)</li>
       <li>MLA (8th & 9th editions)</li>
@@ -43,18 +43,20 @@ Passionate full-stack developer | MERN enthusiast | Problem solver</p>
       <li>Turabian (9th edition)</li>
       <li>Harvard style</li>
     </ul>
-    <b>Tech stack:</b> MongoDB, Express, React, Node.js, Custom API integration
+    <b>Current tech stack include:</b> Express, Node.js, and Custom API integration<br>
+  Try it 😊
   </p>
 </div>
+      <h4>Animated SVG</h4>
       <p>
+                I made this 👇🏾 simple animated dark skin tone handwave. Feel free to use it <br>
         <a href="https://github.com/DesmondKarani/darkSkinHandWave" target="_blank" rel="noopener noreferrer"><b>Animated Dark Skin Tone Hand Wave</b></a><br>
-        I made this ☝🏾 simple animated dark skin tone handwave. Feel free to use it
       </p>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DesmondKarani&layout=compact&count_private=true&theme=radical&hide_border=true" alt="Top Languages" />
     </td>
 
   <td valign="top" width="50%">
-      <h3>More Stats</h3>
+      <h3>Stats</h3>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DesmondKarani&layout=compact&count_private=true&theme=radical&hide_border=true" alt="Top Languages" />
       <img src="https://github-readme-stats.vercel.app/api?username=DesmondKarani&show_icons=true&count_private=true&theme=radical&hide_border=true&hide_title=true" alt="GitHub stats" />
       <br>
       <a href="https://git.io/streak-stats" target="_blank" rel="noopener noreferrer">
