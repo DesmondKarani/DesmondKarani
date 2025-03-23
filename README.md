@@ -45,7 +45,7 @@ Passionate full-stack developer | MERN enthusiast | Problem solver</p>
     </ul>
   I found alternatives inadequate for my needs<br><br>
   Tech stack:</b> Express, Node.js, and RESTful APIs integration<br><br>
-  Try it 😊
+  Try it 😊: www.mycitations.org
   </p>
 </div>
       <h4>2. Animated SVG Github Handwave</h4>
