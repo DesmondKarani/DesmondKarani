@@ -43,7 +43,7 @@ Passionate full-stack developer | MERN enthusiast | Problem solver</p>
       <li>Turabian (9th edition)</li>
       <li>Harvard style</li>
     </ul>
-  <b>Tech stack:</b> Express, Node.js, and RESTful APIs integration
+  <b>Tech stack:</b> Express, Node.js, and RESTful APIs integration<br>
   Try it 😊
   </p>
 </div>
@@ -51,6 +51,7 @@ Passionate full-stack developer | MERN enthusiast | Problem solver</p>
       <p>
         I made this simple animated dark-skin tone handwave.<br>
         <a href="https://github.com/DesmondKarani/darkSkinHandWave" target="_blank" rel="noopener noreferrer"><b>Animated Dark Skin Tone Hand Wave</b></a><br>
+        You can see it in action on my profile<br>
         Feel free to use it
       </p>
     </td>
