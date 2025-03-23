@@ -43,8 +43,8 @@ Passionate full-stack developer | MERN enthusiast | Problem solver</p>
       <li>Turabian (9th edition)</li>
       <li>Harvard style</li>
     </ul>
-  I found alternatives inadequate for my needs<br>
-  <b>Tech stack:</b> Express, Node.js, and RESTful APIs integration<br>
+  I found alternatives inadequate for my needs<br><br>
+  Tech stack:</b> Express, Node.js, and RESTful APIs integration<br>
   Try it 😊
   </p>
 </div>
