@@ -43,8 +43,8 @@ Passionate full-stack developer | MERN enthusiast | Problem solver</p>
       <li>Turabian (9th edition)</li>
       <li>Harvard style</li>
     </ul>
-    <b>Current tech stack include:</b> Express, Node.js, and Custom API integration<br>
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Try it 😊
+    <b>Tech stack:</b> Express, Node.js, and Custom API integration<br>
+  Try it 😊
   </p>
 </div>
       <h4>2. Animated SVG Github Handwave</h4>
