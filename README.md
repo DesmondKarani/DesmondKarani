@@ -51,8 +51,8 @@ Passionate full-stack developer | MERN enthusiast | Problem solver</p>
       <p>
         I made this simple animated dark-skin tone handwave.<br>
        &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://raw.githubusercontent.com/DesmondKarani/darkSkinHandWave/refs/heads/main/wave.svg" width="18px" alt="Waving Hand" /><br>
-        Repository >><a href="https://github.com/DesmondKarani/darkSkinHandWave" target="_blank" rel="noopener noreferrer"><b>Dark Skin Tone Hand Wave</b></a><br><br
-        Feel free to use it
+        Repository >><a href="https://github.com/DesmondKarani/darkSkinHandWave" target="_blank" rel="noopener noreferrer"><b>Dark Skin Tone Hand Wave</b></a>
+                                                                                                                                                                    <br><br> Feel free to use it
       </p>
     </td>
 
