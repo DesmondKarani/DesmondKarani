@@ -43,7 +43,7 @@ Passionate full-stack developer | MERN enthusiast | Problem solver</p>
       <li>Turabian (9th edition)</li>
       <li>Harvard style</li>
     </ul>
-    <b>Tech stack:</b> Express, Node.js, and Custom API integration<br>
+  <b>Tech stack:</b> Express, Node.js, and RESTful APIs integration
   Try it 😊
   </p>
 </div>
