@@ -33,9 +33,9 @@ Passionate full-stack developer | MERN enthusiast | Problem solver</p>
       </p>
       <h3>Featured Projects</h3>
 <div align="left">
-  <h4>1. Check my website 👉🏾 <a href="https://mycitations.org/">myCitations.org</a></h4>
+  <h4>1. Check out my website 👉🏾 <a href="https://mycitations.org/">myCitations.org</a></h4>
   <p>
-    This is a full-stack site that generates accurate academic citations in multiple formats:
+    I developed this site to generate accurate academic citations in multiple formats:
     <ul>
       <li>APA (6th & 7th editions)</li>
       <li>MLA (8th & 9th editions)</li>
@@ -43,6 +43,7 @@ Passionate full-stack developer | MERN enthusiast | Problem solver</p>
       <li>Turabian (9th edition)</li>
       <li>Harvard style</li>
     </ul>
+  I found alternatives inadequate for my needs
   <b>Tech stack:</b> Express, Node.js, and RESTful APIs integration<br>
   Try it 😊
   </p>
