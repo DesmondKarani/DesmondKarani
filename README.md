@@ -31,16 +31,21 @@ Passionate full-stack developer | MERN enthusiast | Problem solver</p>
         <img src="https://raw.githubusercontent.com/DesmondKarani/svg/refs/heads/main/node-js.svg" width="40px" height="40" alt="NodeJS" title="Node.js - Backend Runtime" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40px" alt="TypeScript" title="TypeScript - Typed JavaScript" />
       </p>
-      
-  <h3>Featured Projects</h3>
-      <p>
-        <a href="https://github.com/DesmondKarani/citePY" target="_blank" rel="noopener noreferrer"><b>Citation Generator</b></a><br>
-        Python & Docker-powered website for academic citations
-      </p>
-      <p>
-        <a href="https://github.com/DesmondKarani/weather-app" target="_blank" rel="noopener noreferrer"><b>Weather App</b></a><br>
-        MERN stack app featuring real-time weather updates
-      </p>
+      <h3>Featured Projects</h3>
+<div align="left">
+  <h4>📚 <a href="https://mycitations.org/">MyCitations.org</a> - Academic Citation Generator</h4>
+  <p>
+    A full-stack MERN application that generates accurate academic citations in multiple formats:
+    <ul>
+      <li>APA (6th & 7th editions)</li>
+      <li>MLA (8th & 9th editions)</li>
+      <li>Chicago (19th edition)</li>
+      <li>Turabian (9th edition)</li>
+      <li>Harvard style</li>
+    </ul>
+    <b>Tech stack:</b> MongoDB, Express, React, Node.js, Custom API integration
+  </p>
+</div>
       <p>
         <a href="https://github.com/DesmondKarani/darkSkinHandWave" target="_blank" rel="noopener noreferrer"><b>Animated Dark Skin Tone Hand Wave</b></a><br>
         I made this ☝🏾 simple animated dark skin tone handwave. Feel free to use it
