@@ -2,6 +2,7 @@
 
 <p>I'm Desmond Karani<br>
 Passionate full-stack developer | MERN enthusiast | Problem solver</p>
+
 <p>
   <a href="https://x.com/karani_des" target="_blank" rel="noopener noreferrer" title="Contact me on X">
     <img src="https://raw.githubusercontent.com/DesmondKarani/svg/refs/heads/main/FlowbiteXSolid.svg" width="20px" alt="X" />
