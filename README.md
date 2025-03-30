@@ -17,6 +17,7 @@ Passionate full-stack developer | MERN enthusiast | Problem solver</p>
 
 <p>Currently working on TypeScript</p>
 
+
 <table>
   <tr>
     <td valign="top" width="50%">
