@@ -45,7 +45,7 @@ Passionate full-stack developer | MERN enthusiast | Problem solver</p>
       <li>Harvard style</li>
     </ul>
   I found alternatives inadequate for my needs<br><br>
-  Tech stack:</b> Express, Node.js, and RESTful APIs integration<br><br>
+  Tech stack:</b> Express, Node.js, and RESTful APIs integration (GraphQL would add unnecessary complexity for this use case.)<br><br>
   Try it 😊: www.mycitations.org
   </p>
 </div>
