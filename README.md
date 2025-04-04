@@ -34,7 +34,7 @@ Passionate full-stack developer | MERN enthusiast | Problem solver</p>
       </p>
       <h3>Featured Projects</h3>
 <div align="left">
-  <h4>1. Check out my website 👉🏾 <a href="https://mycitations.org/">myCitations.org</a></h4>
+  <h4>1. Check out my main project 👉🏾 <a href="https://mycitations.org/">myCitations.org</a></h4>
   <p>
     I developed this site to generate accurate academic citations in multiple formats:
     <ul>
