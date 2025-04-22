@@ -15,7 +15,7 @@ Passionate full-stack developer | MERN enthusiast | Problem solver</p>
   </a>
 </p>
 
-<p>Currently working on TypeScript</p>
+<p>Currently learning TypeScript</p>
 
 <table>
   <tr>
