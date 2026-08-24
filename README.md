@@ -36,17 +36,17 @@ Passionate full-stack developer | MERN enthusiast | Problem solver</p>
 <div align="left">
   <h4>1. Check out my main project 👉🏾 <a href="https://www.fitsavanna.co.ke/">Fit Savanna</a></h4>
   <p>
-    I developed this site to generate accurate academic citations in multiple formats:
+    I developed this fitness site to help those interested in fitness access the information and tools necessary to excel in their journey:
     <ul>
-      <li>APA (6th & 7th editions)</li>
-      <li>MLA (8th & 9th editions)</li>
-      <li>Chicago (19th edition)</li>
-      <li>Turabian (9th edition)</li>
-      <li>Harvard style</li>
+      <li>Food Tracker</li>
+      <li>Marathons Directory</li>
+      <li>Cycling Events</li>
+      <li>Workout PDFs</li>
+      <li>Pace Calculator</li>
     </ul>
-  I found alternatives inadequate for my needs<br><br>
-  Tech stack:</b> Express, Node.js, and RESTful APIs integration (GraphQL would add unnecessary complexity for this use case)<br><br>
-  Try it 😊: www.fitsavanna.co.ke
+  I found alternatives inadequate, especially for beginners looking for free and fast tools.<br><br>
+  <b>Tech stack:</b> Next.js, Node.js, and RESTful API integration<br><br>
+  Try it 😊: <a href="https://www.fitsavanna.co.ke">www.fitsavanna.co.ke</a>
   </p>
 </div>
       <h4>2. Animated SVG Github Handwave</h4>
