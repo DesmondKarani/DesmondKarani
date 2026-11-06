@@ -58,11 +58,13 @@ Passionate full-stack developer | MERN enthusiast | Problem solver</p>
       </p>
     </td>
 
-  <td valign="top" width="50%">
-      <h3>Stats</h3>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DesmondKarani&layout=compact&count_private=true&theme=radical&hide_border=true&card_width=490" alt="Top Languages" />
-      <img src="https://github-readme-stats.vercel.app/api?username=DesmondKarani&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide_title=true&card_width=490" alt="GitHub stats" />
-      <br>
+ 
+<td valign="top" width="50%">
+  <h3>Stats</h3>
+  <img src="https://github-readme-stats-mocha-gamma-58.vercel.app/api/top-langs/?username=DesmondKarani&layout=compact&count_private=true&theme=radical&hide_border=true&card_width=490" alt="Top Languages" />
+  <img src="https://github-readme-stats-mocha-gamma-58.vercel.app/api?username=DesmondKarani&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide_title=true&card_width=490" alt="GitHub stats" />
+  <br>
+
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-plum-eight.vercel.app?user=DesmondKarani&theme=tokyonight-duo&hide_border=true&card_width=490" alt="GitHub Streak" /></a>    
   <br><p><i>"Learn as if you were to live forever."</i> – Mahatma Gandhi</p><br>
 
